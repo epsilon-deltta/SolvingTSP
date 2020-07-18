@@ -1,8 +1,0 @@
-Language :java
-Framework: SPRING
-FLATFORM: WEB
-
-DB : MARIA DB
-FUNCTION 
-  -BBS
-  -LOGIN (WORKING)
